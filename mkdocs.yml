@@ -1,0 +1,8 @@
+site_name: "thirdone"
+site_description: "third service"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
